@@ -4,6 +4,9 @@
 
 Proyek ini bertujuan untuk membangun model klasifikasi gambar yang dapat membedakan antara sepatu (shoe), sandal (sandal), dan boot. Model ini dikembangkan menggunakan deep learning dengan pustaka TensorFlow dan Keras.
 
+## Dataset
+dataset dapat di akses memalui https://www.kaggle.com/datasets/hasibalmuzdadid/shoe-vs-sandal-vs-boot-dataset-15k-images
+
 ## Tujuan
 
 1. Mengumpulkan dan mempersiapkan dataset gambar untuk klasifikasi.
